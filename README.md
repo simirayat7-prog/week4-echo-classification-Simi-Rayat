@@ -8,3 +8,10 @@ Objective of notebook: classify radar echo waveforms into 2 surface types (leads
 - [Chapter1_Unsupervised_Learning_Methods_Michel.ipynb](Chapter1_Unsupervised_Learning_Methods_Michel.ipynb)
 
 The notebook is best viewed directly on GitHub or run in Google Colab.
+
+## Run the Notebook
+
+You can explore the notebook directly on GitHub or run it interactively in Google Colab with one click.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/simirayat7-prog/week4-echo-classification-Simi-Rayat/blob/main/Chapter1_Unsupervised_Learning_Methods_Michel.ipynb)
+
