@@ -37,11 +37,14 @@ By running this notebook, you will learn:
 ## Data Requirements
 
 This notebook expects data from the following Sentinel-2 and Sentinel-3 folders... 
+//github.com/simirayat7-prog/week4-echo-classification-Simi-Rayat/blob/main/S2A_MSIL1C_20190301T235611_N0207_R116_T01WCU_20190302T014622.SAFE 
+https://github.com/simirayat7-prog/week4-echo-classification-Simi-Rayat/blob/main/S3A_SR_2_LAN_SI_20190307T005808_20190307T012503_20230527T225016_1614_042_131______LN3_R_NT_005.SEN3
+
+In the case of an error, here is a google drive link aswell..
 https://drive.google.com/drive/folders/1RotV2ze6EjzFv92WbFcI343scuOPjpFF?usp=drive_link
 https://drive.google.com/drive/folders/1tP13q-cHLDXFFGZfUapzTfdbYtSEPIbh?usp=drive_link
 
-or straight from this Github: https://github.com/simirayat7-prog/week4-echo-classification-Simi-Rayat/blob/main/S2A_MSIL1C_20190301T235611_N0207_R116_T01WCU_20190302T014622.SAFE 
-https://github.com/simirayat7-prog/week4-echo-classification-Simi-Rayat/blob/main/S3A_SR_2_LAN_SI_20190307T005808_20190307T012503_20230527T225016_1614_042_131______LN3_R_NT_005.SEN3
+Sentinel-2 and Sentinel-3 are Earth observation satellite missions operated by the European Space Agency (ESA) as part of the Copernicus Programme. Copernicus is the European Union’s programme for monitoring the Earth’s land, oceans, and atmosphere. The Senitnel-2 data can be found as GeoTiff whiles whereas the Sentinel-3 data is ususally distributed as NetCDF files.
 
 If you are using Google Colab, make sure the data is available in your Google Drive and that the file path in the notebook matches your Drive folder structure.
 
